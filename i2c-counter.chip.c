@@ -1,8 +1,3 @@
-// Wokwi Custom Chip - For information and examples see:
-// https://docs.wokwi.com/chips-api/getting-started
-//
-// SPDX-License-Identifier: MIT
-// Copyright (C) 2022 Uri Shaked / wokwi.com
 
 #include "wokwi-api.h"
 #include <stdio.h>
